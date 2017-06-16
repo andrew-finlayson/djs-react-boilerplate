@@ -12,6 +12,10 @@ The source files are commented with further explanations about how everything pi
 - `npm i`
 - `npm start`
 
+## Testing
+
+- `npm test`
+
 ## Components
 
 ### Implemented
@@ -25,9 +29,8 @@ The source files are commented with further explanations about how everything pi
 - [Reactstrap](https://reactstrap.github.io/)
 - [TSLint](https://palantir.github.io/tslint/)
 
-### Still to come
-
 - [Jest](https://facebook.github.io/jest/)
+- [Enzyme](https://github.com/airbnb/enzyme/tree/master/docs)
 - [Express](https://expressjs.com/)
 
 ### Far off

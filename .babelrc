@@ -1,3 +1,11 @@
 {
-  "presets": [["es2015", {"loose": true, "modules": false}], "react"]
+  "env": {
+    "test": {
+      "presets": ["es2015", "react"]
+    },
+    "default": {
+      "presets": [["es2015", {"loose": true, "modules": false}], "react"]
+    }
+  }
 }
+
